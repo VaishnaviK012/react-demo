@@ -1,2 +1,2 @@
 # react-demo
-First demo
+First demo repository
